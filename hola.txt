@@ -1,0 +1,1 @@
+Un archivo cualquiera, para que los PRs de prueba tengan algo que tocar.
